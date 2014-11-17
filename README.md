@@ -7,6 +7,8 @@ Day One &lt;- Instagram
 <br>http://flickstagram.org/
 <br>This will make a Flickr album called "Instagram Photos."
 
+<p>Walk away and get a cup of coffee. This will take a while.
+
 <p>Once all your Instagram photos are in Flickr,
 <br>(You can see because you'll see your most recent Instagram photo)
 <br>Tag all your photos with "<i>username</i>flickstagram"
