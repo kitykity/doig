@@ -14,8 +14,10 @@ Day One &lt;- Instagram
 <br>Tag all your photos with "<i>username</i>flickstagram"
 <br>- At the top, click on You -> Organize
 <br>- At the bottom where it says "All your content," select the album called "Instagram Photos"
-<br>- Highlight all of them and drag them into the middle.
+<br>- Highlight all of them and drag them into the middle. (Hint: use the "Select All" link.)
 <br>- Click on "Add Tags" and add the tag (so I used "kitykityflickstagram").
+
+<p>Go get another cup of coffee while the tags are indexed within Flickr. You are now the great cornholio.
 
 <p>Make an RSS feed of that new album.
 <br>http://www.degraeve.com/flickr-rss/
