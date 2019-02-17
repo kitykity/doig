@@ -19,3 +19,5 @@ To get your data exported from Instagram:
 10. Unzip the zip file
 11. On your Mac, put the unzipped directory in a directory called /Users/your_username/doig
 12. Rename that unzipped directory "instagram" (lowercase)
+
+(This page is a work in progress.)
