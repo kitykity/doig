@@ -3,25 +3,19 @@ doig
 
 Day One &lt;- Instagram
 
-<p>Use Flickstagram to connect Instagram to Flickr.
-<br>http://flickstagram.org/
-<br>This will make a Flickr album called "Instagram Photos."
+Wow... a lot has changed in four years!
+I'm rewriting this entire script.
 
-<p>Walk away and get a cup of coffee. This will take a while.
-
-<p>Once all your Instagram photos are in Flickr,
-<br>(You can see because you'll see your most recent Instagram photo)
-<br>Tag all your photos with "<i>username</i>flickstagram"
-<br>- At the top, click on You -> Organize
-<br>- At the bottom where it says "All your content," select the album called "Instagram Photos"
-<br>- Highlight all of them and drag them into the middle. (Hint: use the "Select All" link.)
-<br>- Click on "Add Tags" and add the tag (so I used "kitykityflickstagram").
-
-<p>Go get another cup of coffee while the tags are indexed within Flickr. You are now the great cornholio.
-
-<p>Make an RSS feed of that new album.
-<br>http://www.degraeve.com/flickr-rss/
-<br>- In the tags field, type the tag you created above (mine was "kitykityflickstagram").
-<br>- In the sort order choose "date-posted-desc"
-<br>- In the maximum number of items, choose 999 (or whatever will be more than the number of photos in that Flickr album).
-<br>- Click the Flickr-RSS-ify button.
+To get your data exported from Instagram:
+1. Go to your instagram page
+2. Click on the gear next to your username
+3. Select Privacy and Security
+4. Go down to Data Download, and click Request Download
+5. Enter your login info
+6. Wait
+7. Check your email for one from instagram when the download's ready
+8. Click on the link in the email
+9. Save the zip file to your hard drive
+10. Unzip the zip file
+11. On your Mac, put the unzipped directory in a directory called /Users/your_username/doig
+12. Rename that unzipped directory "instagram" (lowercase)
